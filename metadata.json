@@ -1,0 +1,6 @@
+{
+  "name": "Anki Vocabulary Deck Generator",
+  "description": "Tạo bộ từ vựng Anki tự động xuất file Excel (.xlsx) với 2 cột Mặt Trước và Mặt Sau theo chuẩn HTML <br>.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
